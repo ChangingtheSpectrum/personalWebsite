@@ -60,32 +60,29 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Chris Harris.</h2>;
+  const three = <h3 className="big-heading">Here to provide world-class support!</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        Specialist with 7 years of experience, excelling in delivering exceptional customer
+        solutions and enhancing quality control processes. Proficient in troubleshooting technical
+        issues, effectively communicating with diverse stakeholders, and collaborating with
+        cross-functional teams to drive customer satisfaction. Adept at utilizing data-driven
+        insights to improve support operations and ensure service excellence. Committed to fostering
+        trust and providing actionable feedback to enhance team performance and operational
+        efficiency. Ready to leverage expertise in a Customer Support Engineer role to contribute to
+        an innovative, customer-centric environment. Currently, I’m focused on streamlining customer
+        support efforts at{' '}
+        <a href="https://linode.com/" target="_blank" rel="noreferrer">
+          Akamai/Linode
         </a>
         .
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
