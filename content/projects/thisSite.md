@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2025-05-04'
 title: 'This site!'
 github: 'https://github.com/bchiang7/v4'
 tech:

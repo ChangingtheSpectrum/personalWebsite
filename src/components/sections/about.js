@@ -148,6 +148,10 @@ const About = () => {
               and <i>not</i> what doesn’t (read: system administration).
             </p>
 
+	    <p>
+	     When I’m not working on a project of some sort, you’ll find me either in the gym, on a bike, studying Japanese, or arguing about urban planning online (a lack of any sort of degree in urban planning does nothing to deter me from being very opinionated).
+	   </p>
+
             <p>Here are a few of what I’d describe as my core-competencies:</p>
           </div>
 
