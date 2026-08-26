@@ -3,7 +3,7 @@ name: CI/CD to Docker Hub
 # Trigger the workflow on every push to the main branch
 on:
   push:
-    branches: [ "personal" ]
+    branches: [ "main" ]
 
 jobs:
   build-and-push:
