@@ -319,7 +319,7 @@ const Featured = () => {
                   gatsbyImageData(width: 700, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
                 }
               }
-              tech
+	      tech
               github
               external
               cta
@@ -348,7 +348,7 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Some Things I’ve Built
+        Proof of Concept
       </h2>
 
       <StyledProjectsGrid>
