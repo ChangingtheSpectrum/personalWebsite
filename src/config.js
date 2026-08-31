@@ -26,6 +26,10 @@ module.exports = {
       url: '/#jobs',
     },
     {
+      name: 'Nerd Stuff',
+      url: '/#nerd',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },

@@ -61,19 +61,17 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Chris Harris.</h2>;
-  const three = <h3 className="big-heading">Here to provide world-class support!</h3>;
+  const three = <h3 className="big-heading">Building & supporting cloud infrastructure.</h3>;
   const four = (
     <>
       <p>
-        Specialist with 7 years of experience, excelling in delivering exceptional customer
-        solutions and enhancing quality control processes. Proficient in troubleshooting technical
-        issues, effectively communicating with diverse stakeholders, and collaborating with
-        cross-functional teams to drive customer satisfaction. Adept at utilizing data-driven
-        insights to improve support operations and ensure service excellence. Committed to fostering
-        trust and providing actionable feedback to enhance team performance and operational
-        efficiency. Ready to leverage expertise in a Customer Support Engineer role to contribute to
-        an innovative, customer-centric environment. Currently, I’m focused on streamlining customer
-        support efforts at{' '}
+        Specialist and Certified Kubernetes Administrator (CKA) with 7 years of experience,
+        excelling in delivering exceptional customer solutions, containerized platform management,
+        and enhancing quality control processes. Proficient in troubleshooting technical issues,
+        effectively communicating with diverse stakeholders, and collaborating with cross-functional
+        teams to drive customer satisfaction. Ready to leverage my expertise in Kubernetes and
+        system administration in a Customer Support Engineer role. Currently, I’m focused on
+        streamlining customer support efforts at{' '}
         <a href="https://linode.com/" target="_blank" rel="noreferrer">
           Akamai/Linode
         </a>
